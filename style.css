@@ -8,8 +8,6 @@ body {
 }
 
 
-
-
 table, th, td {
   border: 1px solid black;
   width: 100%;
@@ -41,6 +39,7 @@ table, th, td {
         border-radius: 1px;
         display: inline;
         padding: 1px;
+        text-size: 10px;
       }
 
       #menu a {
